@@ -8,7 +8,8 @@ This C# example demonstrates how to interface with the GoldHEN bin loader server
 - Contributes are welcome and accepted. Make a pull request with any bugs you may find or encounter.
 
 # Credits
-- ctn123 for his PS4Debug
+- Golden for his PS4Debug
+- ctn123 for his edited version of PS4Debug
 - EchoStretch
 - Kameleon
 - Cqlzone (Calzone) for his contributions.
