@@ -11,7 +11,7 @@ This C# example demonstrates how to interface with the GoldHEN bin loader server
 - ctn123 for his PS4Debug
 - EchoStretch
 - Kameleon
-- Cqlzone (Calzone)
+- Cqlzone (Calzone) for his contributions.
 - EinTim23 (Tim)
 - DeathRGH for his frame4 (modified version of PS4Debug)
 - PS4 Scene Collective
